@@ -1,2 +1,2 @@
 # TARDIS Archives
-Contains thew whoniverse. (It's bigger on the inside)
+Contains the whoniverse. (It's bigger on the inside)
